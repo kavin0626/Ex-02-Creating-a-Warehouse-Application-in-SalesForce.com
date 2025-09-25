@@ -1,11 +1,8 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-
+# Name:KAVINRAJ.S
+# Regestration number:212223100019
 ## AIM:
 To create a warehouse application in salesforce.com
-```
- NAME : KAVINRAJ.S
- REG NO:2122231000019
-```
 
 ## Procedure
 
